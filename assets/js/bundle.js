@@ -33110,7 +33110,7 @@
     const ia = {
       en:
         ((qn = {
-          welcome_message: "Aurk ",
+          welcome_message: "Synthia ",
           banner_launch: "AIRDROP  ",
           banner_text: "Join for $1.000.000 SDM Rewards",
           follow: "Follow",
@@ -33120,11 +33120,11 @@
           menuText_trackRecord: "Track record",
           menuText_ecoSystem: "Ecosystem",
           menuText_partners: "Partners",
-          Launch: '<span class="header-button-mobile">Launch&nbsp;</span>DAPP ',
+          Launch: '<span class="header-button-mobile">Launch&nbsp;</span>DAPP (Soon) ',
           AI: "AI",
           Decentralized: "Decentralized",
           hero__content:
-            'Build, deploy, and monetize <span class="text-spring-green">AI agents</span> without writing a single line of code<span class="text-viridian-green">Welcome to AURK</span> the decentralized AI platform designed for everyone.',
+            'Build, deploy, and monetize <span class="text-spring-green">AI agents</span> without writing a single line of code<span class="text-viridian-green">Welcome to Synthia</span> the decentralized AI platform designed for everyone.',
           hero_exploreBtn: "Buy Now",
           features_name1: "No-Code Agent Builder",
           features_name1Mobile: "No-Code <br>Agent Builder",
@@ -33143,7 +33143,7 @@
           features_info32: "Protect communication with advanced encryption.",
           features_info33: "Secure environments with robust access controls.",
           token_text:
-            "AURK is revolutionizing AI development with a platform that empowers creators, entrepreneurs, and developers to design and launch AI agents effortlessly. No coding. No barriers. Just innovation.",
+            "Synthia is revolutionizing AI development with a platform that empowers creators, entrepreneurs, and developers to design and launch AI agents effortlessly. No coding. No barriers. Just innovation.",
           toke_features: "FEATURES OF THE TOKEN",
           toke_features_title1: "Drag-and-drop interface",
           toke_features_title2: "Reputation marketplace",
@@ -33163,41 +33163,41 @@
           Whitelabel_Partners: "Whitelabel Partners",
           Users: "Users",
           eco_system: "Tokenomics",
-          ecoTitle1: "Total Supply : 100,000,00",
-          ecoText1: "100,000,000 $AURK",
-          ecoTitle2: "DEX Liquidity : 65%",
-          ecoText2: "65,000,000 $AURK",
+          ecoTitle1: "Total Supply : 100M",
+          ecoText1: "100,000,000 $SYNTHIA",
+          ecoTitle2: "Liquidity Pool: Burned",
+          ecoText2: "LP $SYNTHIA Burned",
           ecoTitle3:
-            "Listings & Ecosystem: 10%, Partnerships & Business Development: 5% and Team & Advisors: 5%",
-          ecoText3: "20,000,000 $AURK",
+            "Buy/Sell TAX: 0%",
+          ecoText3: "Buy/Sell TAX: 0%",
           ecoTitle4:
-            " Creator Incentives: 5%, User Incentives: 8% and Token Reserve: 2%          ",
-          ecoText4: "15,000,000 $AURK",
+            "Ownership Renounced",
+          ecoText4: "Ownership Renounced",
           faq: "Roadmap",
           faq_question1:
             "Q1- Q2 2025: Research, partnerships, and team expansion.          .",
           faq_answer1:
-            "Welcome to AURK the decentralized AI platform designed for everyone. Build, deploy, and monetize AI agents without writing a single line of code",
+            "Welcome to Synthia the decentralized AI platform designed for everyone. Build, deploy, and monetize AI agents without writing a single line of code",
           faq_question2:
-            " Q3- Q3 2025: Launch of AURK V1.0 and AI agent builder.          ",
+            " Q3- Q3 2025: Launch of Synthia V1.0 and AI agent builder.          ",
           faq_answer2:
             "Yes, the DePIN network is fully live and producing our flagship product: EPN which is available for Token holders for free! Other services are being rolled out in the coming months according to our roadmap.",
           faq_question3:
             "Q4 2025: Marketplace launch, V2.0 rollout, and Tier-1 exchange listings.          ",
           faq_answer3:
-            "On the supply side, nodes come from professional cloud service providers and through Node pools anyone can join to empower the overall network. One Node consists of 100,000 SDM Tokens staked and can have an unlimited number of participants. <br> <br>\n    On the demand side, Aurk provides intuitive services enabling users to bypass internet restrictions, stay anonymous, and safeguard their crypto assets from threats, regardless of device or location. <br> <br>\n    This synergy fuels growth: <br>\n    More nodes remove tokens from circulation, driving price growth. <br>\n    Which gives Increased awareness, attracting users, boosting more revenue. <br>\n    Higher revenue yields greater APY for each node, encouraging the creation of more Nodes and expanding the network.",
+            "On the supply side, nodes come from professional cloud service providers and through Node pools anyone can join to empower the overall network. One Node consists of 100,000 SDM Tokens staked and can have an unlimited number of participants. <br> <br>\n    On the demand side, Synthia provides intuitive services enabling users to bypass internet restrictions, stay anonymous, and safeguard their crypto assets from threats, regardless of device or location. <br> <br>\n    This synergy fuels growth: <br>\n    More nodes remove tokens from circulation, driving price growth. <br>\n    Which gives Increased awareness, attracting users, boosting more revenue. <br>\n    Higher revenue yields greater APY for each node, encouraging the creation of more Nodes and expanding the network.",
           faq_question4: "Updated Soon",
           faq_answer4:
-            "The $AURK token is not on the market yet. All details, schedules, and announcements related to the token launch will be posted on our official platforms (Website, X, Telegram). Beware of scammers, we recommend following our official social channels for updates.",
+            "The $SYNTHIA token is not on the market yet. All details, schedules, and announcements related to the token launch will be posted on our official platforms (Website, X, Telegram). Beware of scammers, we recommend following our official social channels for updates.",
           footerLeft_text:
-            " AURK is revolutionizing AI development with a platform that empowers creators, entrepreneurs, and developers to design and launch AI agents effortlessly. No coding. No barriers. Just innovation.",
+            " Synthia is revolutionizing AI development with a platform that empowers creators, entrepreneurs, and developers to design and launch AI agents effortlessly. No coding. No barriers. Just innovation.",
           Socials: "Socials",
           X: "X",
           Telegram: "Telegram",
           Navigation: "Navigation",
           Documentation: "Documentation",
           myNode: "My Node",
-          AurkEPN: "Aurk EPN",
+          SynthiaEPN: "Synthia EPN",
           MagicSquare: "MagicSquare",
           Blog: "Blog",
           Contacts: "Contacts",
@@ -33206,7 +33206,7 @@
           CookiePolicy: "Cookie policy",
           PrivacyPolicy: "Privacy policy",
           TermsOfService: "Terms of service",
-          footer_right: "Copyright ©2024 Aurk. All rights reserved.",
+          footer_right: "Copyright ©2024 Synthia. All rights reserved.",
           Our_Solutions: "Our Solutions",
           Threat_Protection: "Threat Protection",
           Features: "Features",
@@ -33236,11 +33236,11 @@
                     "Node_Pools",
                     "Node Pools"
                   ),
-                  "Aurk_AI_Powered_DePIN",
-                  "Aurk "
+                  "Synthia_AI_Powered_DePIN",
+                  "Synthia "
                 ),
-                "Aurk_Protocol",
-                "Aurk Protocol"
+                "Synthia_Protocol",
+                "Synthia Protocol"
               ),
               "Infrastructure_Technology_Ecosystem",
               "Infrastructure & Technology Ecosystem"
@@ -33286,7 +33286,7 @@
             "Protect Your Brand with Cutting-Edge AI Technology"
           ),
           "In_the_rapidly_evolving",
-          "In the rapidly evolving world of cryptocurrency, safeguarding your assets from scams and phishing attacks is more crucial than ever. Introducing Aurk Threat Protection, our advanced AI solution designed to protect your project from malicious threats."
+          "In the rapidly evolving world of cryptocurrency, safeguarding your assets from scams and phishing attacks is more crucial than ever. Introducing Synthia Threat Protection, our advanced AI solution designed to protect your project from malicious threats."
         ),
         ra(
           ra(
@@ -33298,8 +33298,8 @@
                       ra(
                         ra(
                           ra(qn, "Contact_us", "Contact us"),
-                          "Aurk_Threat_Protection",
-                          "Aurk Threat Protection is our state-of-the-art AI system that continuously scans the web, similar to how Google does it, but with a specific focus on identifying threats to your project Brand. Here's how it works:"
+                          "Synthia_Threat_Protection",
+                          "Synthia Threat Protection is our state-of-the-art AI system that continuously scans the web, similar to how Google does it, but with a specific focus on identifying threats to your project Brand. Here's how it works:"
                         ),
                         "Brand_Specific_Monitoring",
                         "Brand-Specific Monitoring"
@@ -33317,10 +33317,10 @@
                 "Immediate Action"
               ),
               "Upon_detecting_these_threats",
-              "Upon detecting these threats, Aurk Threat Protection swiftly blocks the malicious sites and reports them to our leading cybersecurity partners in the crypto space."
+              "Upon detecting these threats, Synthia Threat Protection swiftly blocks the malicious sites and reports them to our leading cybersecurity partners in the crypto space."
             ),
-            "Why_Choose_Aurk",
-            "Why Choose Aurk Threat Protection?"
+            "Why_Choose_Synthia",
+            "Why Choose Synthia Threat Protection?"
           ),
           "Comprehensive_Coverage",
           "Comprehensive Coverage"
@@ -33360,8 +33360,8 @@
               "Stay_Ahead_of_Scammers",
               "Stay Ahead of Scammers"
             ),
-            "With_Aurk_Threat_Protection",
-            "With Aurk Threat Protection, you can confidently grow in the crypto space, knowing that our AI is tirelessly working to keep your project safe from harm. Protect your brand reputation, reduce your audience from being scammed and maintain peace of mind with Aurk's unparalleled Threat Protection security solution."
+            "With_Synthia_Threat_Protection",
+            "With Synthia Threat Protection, you can confidently grow in the crypto space, knowing that our AI is tirelessly working to keep your project safe from harm. Protect your brand reputation, reduce your audience from being scammed and maintain peace of mind with Synthia's unparalleled Threat Protection security solution."
           ),
           "Get_in_touch",
           "Get in touch"
@@ -33389,7 +33389,7 @@
         )),
       ko:
         ((jn = {
-          welcome_message: "Aurk AI 제공자 DePIN",
+          welcome_message: "Synthia AI 제공자 DePIN",
           banner_launch: "실행 ",
           banner_text: "론칭 소식을 놓치지 않으려면 팔로우하세요!",
           follow: "Follow",
@@ -33413,7 +33413,7 @@
             "Web3 피싱 사이트 차단, Web3 안티바이러스, 악성 스마트 계약 방지",
           features_info13:
             "토큰 보유자는 지갑에 $100 이상의 SDM을 보유함으로써 무료 EPN 액세스를 얻을 수 있습니다.",
-          features_name2: "Aurk 프로토콜",
+          features_name2: "Synthia 프로토콜",
           features_info21:
             "수익은 노드 소유자에게 수익으로 분배되는 유동성 풀에서 자동화된 토큰 바이백이 됩니다",
           features_info22:
@@ -33424,13 +33424,13 @@
           features_info31:
             "보다 효율적이고 안전한 온라인 환경을 구축하기 위한 고급 네트워크, 피어 투 피어 분산 네트워크 프로토콜",
           features_info32:
-            "Aurk 네트워크는 매우 경쟁력 있는 가격으로 스토리지를 제공하여 비즈니스가 치열하게 경쟁할 수 있도록 도와드립니다",
+            "Synthia 네트워크는 매우 경쟁력 있는 가격으로 스토리지를 제공하여 비즈니스가 치열하게 경쟁할 수 있도록 도와드립니다",
           features_info33:
             "검증 가능한 보안, 콘텐츠 주소 지정 및 암호화 저장 증명으로 시간이 흘러도 데이터가 안전하게 저장되고 검증됩니다",
           token_text:
-            "Aurk DePIN은 $AURK 토큰으로 구동됩니다. DAO에서 투표권을 얻고, 프리미엄 AI 기반 서비스에 액세스하는 등 다양한 혜택을 누리세요!",
+            "Synthia DePIN은 $SYNTHIA 토큰으로 구동됩니다. DAO에서 투표권을 얻고, 프리미엄 AI 기반 서비스에 액세스하는 등 다양한 혜택을 누리세요!",
           toke_features: "토큰의 기능",
-          toke_features_title1: "Aurk DEPIN 앱",
+          toke_features_title1: "Synthia DEPIN 앱",
           toke_features_title2: "무료 EPN을 위해 보류",
           toke_features_title3: "API 액세스",
           toke_features_title4: "DAO와 보팅",
@@ -33450,38 +33450,38 @@
           eco_system: "Tokenomics",
           ecoTitle1: "사이버 보안 솔루션",
           ecoText1:
-            "Aurk은 Web3, 블록체인 및 암호화 사용 사례를 위해 명시적으로 설계된 사용하기 쉬운 AI 기반 사이버 보안 솔루션을 제공합니다",
-          ecoTitle2: "$AURK 유틸리티 토큰 ",
+            "Synthia은 Web3, 블록체인 및 암호화 사용 사례를 위해 명시적으로 설계된 사용하기 쉬운 AI 기반 사이버 보안 솔루션을 제공합니다",
+          ecoTitle2: "$SYNTHIA 유틸리티 토큰 ",
           ecoText2:
-            "$AURK은 Aurk 생태계의 유틸리티 토큰입니다. 이는 궁극적으로 개인과 기업이 분산형 물리적 인프라 네트워크에 액세스하는 방법입니다",
+            "$SYNTHIA은 Synthia 생태계의 유틸리티 토큰입니다. 이는 궁극적으로 개인과 기업이 분산형 물리적 인프라 네트워크에 액세스하는 방법입니다",
           ecoTitle3: "노드 풀 스테이킹 및 파밍 스",
           ecoText3:
-            "테이킹 SDM 토큰은 APY 수익, DAO 투표권, 독점 에어드롭, NFT 릴리스 및 Aurk 생태계 내 추가 혜택과 같은 다양한 혜택을 제공합니다.",
+            "테이킹 SDM 토큰은 APY 수익, DAO 투표권, 독점 에어드롭, NFT 릴리스 및 Synthia 생태계 내 추가 혜택과 같은 다양한 혜택을 제공합니다.",
           ecoTitle4: "DAO Voting",
           ecoText4:
-            "Aurk Governance는 $AURK 보유자가 DAO를 통해 생태계에 영향을 미치고 자금을 제안, 투표 및 할당할 수 있도록 합니다.",
+            "Synthia Governance는 $SYNTHIA 보유자가 DAO를 통해 생태계에 영향을 미치고 자금을 제안, 투표 및 할당할 수 있도록 합니다.",
           faq: "FAQ",
-          faq_question1: "Aurk이란? ",
+          faq_question1: "Synthia이란? ",
           faq_answer1:
-            "Aurk은 AI 기반 분산형 물리적 인프라 네트워크(DePIN)로 4억 4천만 명의 암호화폐 사용자를 위한 Web3 사이버 보안입니다. Aurk 생태계에는 애플리케이션 호스팅 인프라, 데이터 암호화, 위협 탐지, 암호화폐 보유자와 Web3 Enterprise를 보호하는 고성능 컴퓨팅 작업을 포함한 일련의 고급 서비스를 가능하게 하는 컴퓨팅 성능을 생성하는 데이터 센터 서버가 포함되어 있습니다.",
-          faq_question2: "Aurk 제품은 이미 사용 가능한가요?",
+            "Synthia은 AI 기반 분산형 물리적 인프라 네트워크(DePIN)로 4억 4천만 명의 암호화폐 사용자를 위한 Web3 사이버 보안입니다. Synthia 생태계에는 애플리케이션 호스팅 인프라, 데이터 암호화, 위협 탐지, 암호화폐 보유자와 Web3 Enterprise를 보호하는 고성능 컴퓨팅 작업을 포함한 일련의 고급 서비스를 가능하게 하는 컴퓨팅 성능을 생성하는 데이터 센터 서버가 포함되어 있습니다.",
+          faq_question2: "Synthia 제품은 이미 사용 가능한가요?",
           faq_answer2:
             "예, DePIN 네트워크는 완전히 활성화되어 토큰 보유자가 무료로 사용할 수 있는 주력 제품인 EPN을 생산합니다! 당사의 로드맵에 따라 향후 몇 달 내에 다른 서비스가 출시될 예정입니다.",
-          faq_question3: "Aurk DePIN은 어떻게 작동하나요?",
+          faq_question3: "Synthia DePIN은 어떻게 작동하나요?",
           faq_answer3:
-            "공급 측면에서 노드는 전문 클라우드 서비스 제공업체에서 제공되며 노드 풀을 통해 누구나 참여하여 전체 네트워크를 강화할 수 있습니다. 하나의 노드는 100,000개의 SDM 토큰으로 구성되며 참가자 수는 무제한입니다. 수<br>\n    요 측면에서 Aurk은 사용자가 장치나 위치에 관계없이 인터넷 제한을 우회하고 익명을 유지하며 암호화폐 자산을 위협으로부터 보호할 수 있는 직관적인 서비스를 제공합니다. 이러한 시너지 효과는 성장을 촉진합니다. 더 많은 노드가 유통에서 토큰을 제거하여 가격 상승을 주도합니다. 이를 통해 인지도를 <br>\n    높이고, 사용자를 유치하고, 수익을 높일 수 있습니다. 수익이 높을수록 각 노드의 APY가 높아지므로 더 많은 노드를 생성하고 네트워크를 확장할 수 있습니다.",
-          faq_question4: "$AURK 토큰은 어떻게 구매하나요? TGE는 언제인가요?",
+            "공급 측면에서 노드는 전문 클라우드 서비스 제공업체에서 제공되며 노드 풀을 통해 누구나 참여하여 전체 네트워크를 강화할 수 있습니다. 하나의 노드는 100,000개의 SDM 토큰으로 구성되며 참가자 수는 무제한입니다. 수<br>\n    요 측면에서 Synthia 사용자가 장치나 위치에 관계없이 인터넷 제한을 우회하고 익명을 유지하며 암호화폐 자산을 위협으로부터 보호할 수 있는 직관적인 서비스를 제공합니다. 이러한 시너지 효과는 성장을 촉진합니다. 더 많은 노드가 유통에서 토큰을 제거하여 가격 상승을 주도합니다. 이를 통해 인지도를 <br>\n    높이고, 사용자를 유치하고, 수익을 높일 수 있습니다. 수익이 높을수록 각 노드의 APY가 높아지므로 더 많은 노드를 생성하고 네트워크를 확장할 수 있습니다.",
+          faq_question4: "$SYNTHIA 토큰은 어떻게 구매하나요? TGE는 언제인가요?",
           faq_answer4:
-            "$AURK 토큰은 아직 출시되지 않았습니다. 판매와 관련된 모든 세부 정보, 일정 및 발표는 공식 플랫폼(웹사이트, 트위터, 텔레그램)에 게시됩니다. 사기꾼을 조심하세요. 공식 소셜 채널을 팔로우하셔서 업데이트되는 내용을 확인하시는 것이 좋습니다.",
+            "$SYNTHIA 토큰은 아직 출시되지 않았습니다. 판매와 관련된 모든 세부 정보, 일정 및 발표는 공식 플랫폼(웹사이트, 트위터, 텔레그램)에 게시됩니다. 사기꾼을 조심하세요. 공식 소셜 채널을 팔로우하셔서 업데이트되는 내용을 확인하시는 것이 좋습니다.",
           footerLeft_text:
-            "Aurk은 AI 기반 분산형 물리적 인프라 네트워크(DePIN)로 4억 4천만 명의 암호화폐 사용자를 위한 Web3 사이버 보안입니다.",
+            "Synthia AI 기반 분산형 물리적 인프라 네트워크(DePIN)로 4억 4천만 명의 암호화폐 사용자를 위한 Web3 사이버 보안입니다.",
           Socials: "소셜",
           X: "X",
           Telegram: "Telegram",
           Navigation: "탐색",
           Documentation: "문서화",
           myNode: "내 노드",
-          AurkEPN: "Aurk EPN",
+          SynthiaEPN: "Synthia EPN",
           MagicSquare: "MagicSquare",
           Blog: "블로그",
           Contacts: "연락처",
@@ -33490,7 +33490,7 @@
           CookiePolicy: "쿠키 정책",
           PrivacyPolicy: "개인 정보 보호 정책",
           TermsOfService: "서비스 약관",
-          footer_right: "Copyright ©2024 Aurk. 모든 권리 보유.",
+          footer_right: "Copyright ©2024 Synthia. 모든 권리 보유.",
           Our_Solutions: "우리의 솔루션",
           Threat_Protection: "위협 방지",
           Features: "기능",
@@ -33519,11 +33519,11 @@
                     "Node_Pools",
                     "노드 풀"
                   ),
-                  "Aurk_AI_Powered_DePIN",
-                  "Aurk AI 기반 DePIN"
+                  "Synthia_AI_Powered_DePIN",
+                  "Synthia AI 기반 DePIN"
                 ),
-                "Aurk_Protocol",
-                "Aurk 프로토콜"
+                "Synthia_Protocol",
+                "Synthia 프로토콜"
               ),
               "Infrastructure_Technology_Ecosystem",
               "인프라 및 기술 생태계"
@@ -33569,7 +33569,7 @@
             "최첨단 AI 기술로 브랜드 보호"
           ),
           "In_the_rapidly_evolving",
-          "빠르게 진화하는 암호화폐 세계에서 사기 및 피싱 공격으로부터 자산을 보호하는 일이 그 어느 때보다 중요합니다. Aurk Threat Protection은 악의적인 위협으로부터 프로젝트를 보호하도록 설계된 고급 AI 솔루션입니다."
+          "빠르게 진화하는 암호화폐 세계에서 사기 및 피싱 공격으로부터 자산을 보호하는 일이 그 어느 때보다 중요합니다. Synthia Threat Protection은 악의적인 위협으로부터 프로젝트를 보호하도록 설계된 고급 AI 솔루션입니다."
         ),
         ra(
           ra(
@@ -33581,8 +33581,8 @@
                       ra(
                         ra(
                           ra(jn, "Contact_us", "문의하기"),
-                          "Aurk_Threat_Protection",
-                          "Aurk Threat Protection은 Google이 수행하는 방식과 유사하지만 프로젝트 브랜드에 대한 위협을 식별하는 데 특히 중점을 두고 웹을 지속적으로 검사하는 최첨단 AI 시스템입니다. 작동 방식은 다음과 같습니다."
+                          "Synthia_Threat_Protection",
+                          "Synthia Threat Protection은 Google이 수행하는 방식과 유사하지만 프로젝트 브랜드에 대한 위협을 식별하는 데 특히 중점을 두고 웹을 지속적으로 검사하는 최첨단 AI 시스템입니다. 작동 방식은 다음과 같습니다."
                         ),
                         "Brand_Specific_Monitoring",
                         "브랜드별 모니터링"
@@ -33600,10 +33600,10 @@
                 "즉각적인 조치"
               ),
               "Upon_detecting_these_threats",
-              "Aurk Threat Protection은 이러한 위협을 감지하면 악성 사이트를 신속하게 차단하고 암호화폐 업계의 선도적인 사이버 보안 파트너에게 이를 보고합니다."
+              "Synthia Threat Protection은 이러한 위협을 감지하면 악성 사이트를 신속하게 차단하고 암호화폐 업계의 선도적인 사이버 보안 파트너에게 이를 보고합니다."
             ),
-            "Why_Choose_Aurk",
-            "Aurk Threat Protection을 선택해야 하는 이유"
+            "Why_Choose_Synthia",
+            "Synthia Threat Protection을 선택해야 하는 이유"
           ),
           "Comprehensive_Coverage",
           "포괄적 보장 범위"
@@ -33643,8 +33643,8 @@
               "Stay_Ahead_of_Scammers",
               "사기꾼보다 앞서 나가세요"
             ),
-            "With_Aurk_Threat_Protection",
-            "Aurk Threat Protection을 사용하면 AI가 프로젝트를 위험으로부터 안전하게 보호하기 위해 끊임없이 노력하고 있다는 사실을 알고 암호화폐 업계에서 자신 있게 성장할 수 있습니다. Aurk의 독보적인 바이러스 및 위협 방지 보안 솔루션으로 브랜드 평판을 보호하고 잠재 고객이 사기를 당하는 것을 방지하며 마음의 짐을 내려 놓으세요."
+            "With_Synthia_Threat_Protection",
+            "Synthia Threat Protection을 사용하면 AI가 프로젝트를 위험으로부터 안전하게 보호하기 위해 끊임없이 노력하고 있다는 사실을 알고 암호화폐 업계에서 자신 있게 성장할 수 있습니다. Synthia의 독보적인 바이러스 및 위협 방지 보안 솔루션으로 브랜드 평판을 보호하고 잠재 고객이 사기를 당하는 것을 방지하며 마음의 짐을 내려 놓으세요."
           ),
           "Get_in_touch",
           "문의하기"
@@ -33672,7 +33672,7 @@
         )),
       zh:
         ((Wn = {
-          welcome_message: "Aurk ",
+          welcome_message: "Synthia ",
           banner_launch: "发射 ",
           banner_text: "关注我们，随时掌握上线动态！",
           follow: "Follow",
@@ -33695,7 +33695,7 @@
             "拦截 Web3 网络钓鱼网站、Web3 防病毒软件，同时避免恶意智能合约",
           features_info13:
             "代币持有者若钱包中拥有价值超过 100 美元的 SDM 代币，即可免费获得 EPN 访问权限。",
-          features_name2: "Aurk 协议",
+          features_name2: "Synthia 协议",
           features_info21:
             "收入变为从流动性池自动回购代币，并以收益的形式分配给网络节点所有者",
           features_info22:
@@ -33706,11 +33706,11 @@
           features_info31:
             "先进的网络，点对点分布式网络协议，旨在建立更高效、更安全的网络环境",
           features_info32:
-            "Aurk 网络提供性价比极高的存储解决方案，使您的业务更具竞争优势",
+            "Synthia 网络提供性价比极高的存储解决方案，使您的业务更具竞争优势",
           features_info33:
             "可验证的安全性、内容寻址和加密存储证明确保数据得到安全存储，并且随着时间的推移，安全性也能得到持续验证",
           token_text:
-            "Aurk DePIN 由 $AURK 代币提供支持。在 DAO（去中心化自治组织）中获得投票权，享受高级人工智能服务等更多权益！",
+            "Synthia DePIN 由 $SYNTHIA 代币提供支持。在 DAO（去中心化自治组织）中获得投票权，享受高级人工智能服务等更多权益！",
           toke_features: "代币的特点",
           toke_features_title1: "Aurk DePIN 应用程序",
           toke_features_title2: "保留免费 EPN",
